@@ -1,0 +1,9 @@
+{
+    "RabbitMQ": {
+    "Host": "testsrv.modus.local",
+    "Port": 6672,
+    "VirtualHost": "papyros",
+    "Username": "modus",
+    "Password": "modus"
+ }
+}
